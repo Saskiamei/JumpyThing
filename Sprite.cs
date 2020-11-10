@@ -44,5 +44,25 @@ namespace JumpyThing
 
         public virtual void Update(GameTime gameTime, Point screenSize) { }
 
+        public void Draw(SpriteBatch spriteBatch, GameTime gameTime)
+        {
+            if (animations[currentFrame].Count > 1)
+            {
+                frameCounter -= (float)gameTime.ElapsedGameTime.TotalSeconds;
+
+                if(frameCounter <=0)
+                {
+                    frameCounter = frameTime;
+                    currentFrame++;
+                    if (currentFrame >= animations[currentAnim].Count) currentFrame = 0;
+                }
+            }
+
+                spriteBatch.Draw(spriteSheetTxr, new Rectangle(0, 0, 50, 50), animations[currentAnim][currentFrame], Color.White, 
+                0f, new Vector2(), SpriteEffects.None, 1f);
+
+            
+        }
+
     }
 }

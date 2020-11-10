@@ -13,6 +13,7 @@ namespace JumpyThing
 
         Point screenSize = new Point(800, 400);
 
+        PlayerSprite playerSprite;
 
         public Game1()
         {
@@ -40,6 +41,9 @@ namespace JumpyThing
 
             whiteBox = new Texture2D(GraphicsDevice, 1, 1);
             whiteBox.SetData(new[] { Color.White });
+
+            playerSprite = new PlayerSprite(playerSheetTxr, whiteBox, new Vector2(0, 0));
+
         }
 
         protected override void Update(GameTime gameTime)
@@ -57,6 +61,8 @@ namespace JumpyThing
             _spriteBatch.Begin();
 
             _spriteBatch.Draw(backgroundTxr, new Rectangle(0, 0, screenSize.X, screenSize.Y), Color.White);
+
+            playerSprite.Draw(_spriteBatch, gameTime);
 
             _spriteBatch.End();
 

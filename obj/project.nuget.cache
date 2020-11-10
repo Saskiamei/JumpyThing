@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdwY3wEUyKK5YUWsnr8XaB+K/vxEEYuTqMiJmdAoX8C7/1lMJwlcw3RHDIStymqqj2TeTW/zSo+/xCJL7MJx1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dream\\source\\repos\\JumpyThing\\JumpyThing\\JumpyThing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dream\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

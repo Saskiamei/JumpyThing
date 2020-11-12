@@ -1,4 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_background.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_background.xnb","TextureProcessor","Texture2DContent",5826,1536085,0.4647571
-"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet1.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_spriteSheet1.xnb","TextureProcessor","Texture2DContent",4287,73813,0.0179503
-"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet2.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_spriteSheet2.xnb","TextureProcessor","Texture2DContent",2398,24661,0.0159578
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_background.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_background.xnb","TextureProcessor","Texture2DContent",5826,1536085,0.4774166
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet1.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_spriteSheet1.xnb","TextureProcessor","Texture2DContent",4287,73813,0.019947
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet2.png","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/JumpThing_spriteSheet2.xnb","TextureProcessor","Texture2DContent",2398,24661,0.0159575

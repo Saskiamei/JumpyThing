@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
 
 namespace JumpyThing
 {
@@ -14,6 +15,9 @@ namespace JumpyThing
         Point screenSize = new Point(800, 400);
 
         PlayerSprite playerSprite;
+
+
+        List<List<PlatformSprite>> Levels = new List<List<PlatformSprite>>();
 
         public Game1()
         {
@@ -34,7 +38,6 @@ namespace JumpyThing
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-
             backgroundTxr = Content.Load<Texture2D>("JumpThing_background");
             playerSheetTxr = Content.Load<Texture2D>("JumpThing_spriteSheet1");
             platformSheetTxr = Content.Load<Texture2D>("JumpThing_spriteSheet2");
@@ -42,8 +45,8 @@ namespace JumpyThing
             whiteBox = new Texture2D(GraphicsDevice, 1, 1);
             whiteBox.SetData(new[] { Color.White });
 
-            playerSprite = new PlayerSprite(playerSheetTxr, whiteBox, new Vector2(50, 50));
-
+            playerSprite = new PlayerSprite(playerSheetTxr, whiteBox, new Vector2(100, 100));
+            
         }
 
         protected override void Update(GameTime gameTime)
@@ -66,9 +69,22 @@ namespace JumpyThing
 
             playerSprite.Draw(_spriteBatch, gameTime);
 
+            foreach (PlatformSprite platform in Levels[0]) platform.Draw(_spriteBatch, gameTime);
+            
+
             _spriteBatch.End();
 
             base.Draw(gameTime);
         }
+
+        void BuildLevels()
+        {
+            Levels.Add(new List<PlatformSprite>());
+
+            Levels[0].Add(new PlatformSprite(playerSheetTxr, whiteBox, new Vector2(300, 300)));
+            Levels[0].Add(new PlatformSprite(playerSheetTxr, whiteBox, new Vector2(300, 300)));
+
+        }
+
     }
 }

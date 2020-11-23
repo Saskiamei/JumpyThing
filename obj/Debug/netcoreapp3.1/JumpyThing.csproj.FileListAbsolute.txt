@@ -1,3 +1,7 @@
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.csprojAssemblyReference.cache
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.AssemblyInfoInputs.cache
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.AssemblyInfo.cs
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.csproj.CoreCompileInputs.cache
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\JumpThing_background.xnb
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\JumpThing_spriteSheet1.xnb
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\JumpThing_spriteSheet2.xnb
@@ -16,11 +20,12 @@ C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\runtim
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
-C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.csprojAssemblyReference.cache
-C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.AssemblyInfoInputs.cache
-C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.AssemblyInfo.cs
-C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.csproj.CoreCompileInputs.cache
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.csproj.CopyComplete
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.dll
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.pdb
 C:\Users\dream\source\repos\JumpyThing\JumpyThing\obj\Debug\netcoreapp3.1\JumpyThing.genruntimeconfig.cache
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\UIFont.xnb
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\HeartFont.xnb
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\bump.xnb
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\fanfare.xnb
+C:\Users\dream\source\repos\JumpyThing\JumpyThing\bin\Debug\netcoreapp3.1\Content\jump.xnb

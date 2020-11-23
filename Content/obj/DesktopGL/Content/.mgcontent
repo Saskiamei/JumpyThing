@@ -4,11 +4,21 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bump.wav</File>
+    <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/fanfare.wav</File>
+    <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/HeartFont.spritefont</File>
+    <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/jump.wav</File>
     <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_background.png</File>
     <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet1.png</File>
     <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/JumpThing_spriteSheet2.png</File>
+    <File>C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/UIFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

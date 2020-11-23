@@ -1,1 +1,6 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bump.wav","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/Content/bump.xnb","SoundEffectProcessor","SoundEffectContent",10628,10689,0.5593128
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/fanfare.wav","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/Content/fanfare.xnb","SoundEffectProcessor","SoundEffectContent",605292,605353,0.2087149
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/HeartFont.spritefont","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/Content/HeartFont.xnb","FontDescriptionProcessor","SpriteFontContent",2014,21538,0.319387
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/jump.wav","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/Content/jump.xnb","SoundEffectProcessor","SoundEffectContent",55902,55045,0.1632895
+"C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/UIFont.spritefont","C:/Users/dream/source/repos/JumpyThing/JumpyThing/Content/bin/DesktopGL/Content/UIFont.xnb","FontDescriptionProcessor","SpriteFontContent",2012,21538,0.3168777
